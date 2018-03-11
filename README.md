@@ -1,3 +1,3 @@
 # React + Redux + Lifegame
 
-React + Redux ‚Å Lifegame ‚ğÀ‘•‚µ‚Ü‚·B
+React + Redux ã§ Lifegame ã‚’å®Ÿè£…ã—ã¾ã™ã€‚
